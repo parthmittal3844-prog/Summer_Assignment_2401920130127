@@ -1,1 +1,6 @@
-
+public class ToTestInt{
+    public static void main(String[] args){
+        Arithmetic a=new Arithmetic();
+        System.out.println(a.square(4));
+    }
+}
